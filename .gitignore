@@ -1,4 +1,5 @@
 build
+!build/install/ktor-scaffold/bin/ktor-scaffold
 .gradle
 .gradletasknamecache
 .idea/*

@@ -1,0 +1,1 @@
+web: ./build/install/ktor-scaffold/bin/ktor-scaffold
